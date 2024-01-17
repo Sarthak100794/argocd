@@ -5,7 +5,7 @@ metadata:
 spec:
   replicas: 5
   strategy:
-    canary:
+    #canary:
     #  steps:
     #  - setWeight: 20
     #  - pause: {}
